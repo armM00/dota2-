@@ -1,5 +1,5 @@
 player_game_history = []
-# delete the lines 2-18, 45-47 and implement this code
+# delete the lines 45-47 and 4-5. Modify the lines 8-159 and implement this code
 while True:
     input_user1 = input("double below, below, above, or double above, "
                         "and any other character to see the result: ").lower()
